@@ -1,0 +1,5 @@
+{
+  "name": "LogicMove;Checkers",
+  "description": "An advanced Checkers (Shashka) game with long-range King moves, a point-based scoring system, and high-end neon graphics.",
+  "requestFramePermissions": []
+}
